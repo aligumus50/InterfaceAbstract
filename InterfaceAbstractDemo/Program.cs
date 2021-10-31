@@ -15,10 +15,10 @@ namespace InterfaceAbstractDemo
             {
                 //Yorum satırını kaldırıp bilgilerinizi giriniz...
 
-                DateOfBirth = new DateTime(YYYY,MM,DD), 
+                /*DateOfBirth = new DateTime(YYYY,MM,DD), 
                 FirstName = "FirstName",
                 LastName = "LastName",
-                NationalityId = "NationalityId"
+                NationalityId = "NationalityId"*/
             });
         }
     }
